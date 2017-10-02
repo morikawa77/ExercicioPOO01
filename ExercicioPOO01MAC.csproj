@@ -32,17 +32,15 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Heranca %28copy%29\Conta.cs" />
-    <Compile Include="Heranca %28copy%29\ContaCorrente.cs" />
-    <Compile Include="Heranca %28copy%29\ContaPoupanca.cs" />
-    <Compile Include="Heranca %28copy%29\IConta.cs" />
-    <Compile Include="Heranca %28copy%29\PessoaFisica.cs" />
+    <Compile Include="Heranca\Conta.cs" />
+    <Compile Include="Heranca\ContaCorrente.cs" />
+    <Compile Include="Heranca\ContaPoupanca.cs" />
+    <Compile Include="Heranca\IConta.cs" />
+    <Compile Include="Heranca\Lancamento.cs" />
+    <Compile Include="Heranca\PessoaFisica.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Heranca %28copy%29\Banco.cd" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Heranca %28copy%29\" />
+    <None Include="Heranca\Banco.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
