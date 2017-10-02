@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExercicioPOO01.Heranca.Conta">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAACAAAAAAQgAAAAEAAIAAAADAAA=</HashCode>
+      <FileName>Heranca\Conta.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Cliente" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.21" />
+  </Class>
+  <Class Name="ExercicioPOO01.Heranca.ContaCorrente">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Heranca\ContaCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercicioPOO01.Heranca.ContaPoupanca">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="ExercicioPOO01.Heranca.Conta" FixedFromPoint="true">
+      <Path>
+        <Point X="3" Y="4.125" />
+        <Point X="3.25" Y="4.125" />
+        <Point X="3.25" Y="3" />
+        <Point X="2.75" Y="3" />
+        <Point X="2.75" Y="2.377" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Heranca\ContaPoupanca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExercicioPOO01.Heranca.PessoaFisica">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <AssociationLine Name="Contas" Type="ExercicioPOO01.Heranca.IConta" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.5" Y="4.5" />
+        <Point X="8.5" Y="4.312" />
+        <Point X="5.25" Y="4.312" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAA=</HashCode>
+      <FileName>Heranca\PessoaFisica.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Contas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ExercicioPOO01.Lancamento">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Lancamento.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Conta" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="ExercicioPOO01.Heranca.IConta" Collapsed="true">
+    <Position X="3.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAACAAAAAAQgAAAAEAAIAAAABAAA=</HashCode>
+      <FileName>Heranca\IConta.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

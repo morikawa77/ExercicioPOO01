@@ -1,0 +1,5 @@
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01MAC.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/bin/Debug/ExercicioPOO01MAC.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/bin/Debug/ExercicioPOO01MAC.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01MAC.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01MAC.pdb

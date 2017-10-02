@@ -1,0 +1,13 @@
+C:/VS/Saulo.Lopes/ExemplosPOO/ExercicioPOO01/bin/Debug/ExercicioPOO01.exe.config
+C:/VS/Saulo.Lopes/ExemplosPOO/ExercicioPOO01/bin/Debug/ExercicioPOO01.exe
+C:/VS/Saulo.Lopes/ExemplosPOO/ExercicioPOO01/bin/Debug/ExercicioPOO01.pdb
+C:/VS/Saulo.Lopes/ExemplosPOO/ExercicioPOO01/obj/Debug/ExercicioPOO01.csprojResolveAssemblyReference.cache
+C:/VS/Saulo.Lopes/ExemplosPOO/ExercicioPOO01/obj/Debug/ExercicioPOO01.exe
+C:/VS/Saulo.Lopes/ExemplosPOO/ExercicioPOO01/obj/Debug/ExercicioPOO01.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/bin/Debug/ExercicioPOO01.exe.config
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/bin/Debug/ExercicioPOO01.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/bin/Debug/ExercicioPOO01.pdb
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01.csprojResolveAssemblyReference.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01.csproj.CoreCompileInputs.cache
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01.exe
+/Users/reginaldomorikawa/Documents/Curso Senac Mobile/Projetos/Exercícios C#/ExercicioPOO01/obj/Debug/ExercicioPOO01.pdb
